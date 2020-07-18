@@ -1,4 +1,4 @@
-package CTART;
+package SDET.CTART;
 
 public class Email {
 

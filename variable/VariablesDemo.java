@@ -1,4 +1,4 @@
-package variable;
+package SDET.variable;
 /**
  * local variable:
  * lifetime : created at the beginning of method execution and destroyed at the end of method execution
