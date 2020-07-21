@@ -1,4 +1,4 @@
-package datastructures;
+package SDET.datastructures;
 
 import java.util.*;
 
@@ -12,7 +12,7 @@ import java.util.*;
  *		a Index/position of the duplicate characters: 3, 7, 9
  *		b Total number of duplicate characters: 3
  *
- *	Hint: whenever you see the term duplicate in the question, most likely use 'Set' data structures
+ *	Hint: whenever you see the term duplicate  or count in the question, most likely use 'Set' data structures
  *
  */
 public class SetDemo {

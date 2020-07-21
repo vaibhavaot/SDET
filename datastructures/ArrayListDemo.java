@@ -1,4 +1,4 @@
-package datastructures;
+package SDET.datastructures;
 
 import java.util.*;
 /**
@@ -64,7 +64,7 @@ public class ArrayListDemo {
 			list2.forEach(value -> System.out.println(value));
 			
 			
-			//this method will remove all the extra elements 
+			//this method will remove all the extra elements similar to 
 			
 			list1.removeAll(list2); // .removeAll is a API called 
 			//convert arraylist to array
